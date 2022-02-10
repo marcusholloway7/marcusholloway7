@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcusholloway7
 - 👀 I’m interested in make tools
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
